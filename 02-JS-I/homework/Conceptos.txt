@@ -1,0 +1,9 @@
+Variables: Las variables son un contenedor donde se pueden guardar todo tipo de datos, ya sean numeros, palabras o letras. Todo lo que haya dentro de una variable puede cambiarse dentro del programa.
+
+String: Es un tipo de dato, que se pueden almacenar en variables o constantes y/o trabajar dentro del programa. Son basicamente palabras.
+
+Funciones: Una funcion ejecuta una tarea determinada. Se usan para evitar tareas repetitivas. permiten dividir un problema en sub-problemas permitiendo escribir mas facil soluciones grandes y complejas. Pueden recibir parametros o no y pueden retornar valores o no.
+
+if: Es una estructura condicional simple. S	i se verifica una determinada condicion, ejecuta una serie de instrucciones y luego sigue adelante. Si la condicion no se cumple, no se ejecuan dichas instucciones y sigue adelante.
+
+valores Booleanos: Son un tipo de dato en el cual solo tiene dos posibles valores: true o false. Se usan para verificar si se cumple o no alguna condicion con la logica
