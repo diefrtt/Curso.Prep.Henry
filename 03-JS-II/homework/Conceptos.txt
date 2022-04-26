@@ -1,0 +1,3 @@
+For: For o para en español crea una repeticion que se repite por una variable tipo contador, que va incrementando hasta que cumple una condicion
+
+&& || !: Son operadores logicos (booleanos) "&&" o AND devuelve verdadero siempre y cuando ambas sean verdaderas, si solo una de las dos es falsa devuelve false. || o "OR" este operador logico devuelve veradero si uno de los dos datos es verdadero devuelve True, si ambos son falsos devuelve False. ! o "NOT" niega cualguier operando, por lo tanto si es false devuelve TRUE y si es True lo niega a false
